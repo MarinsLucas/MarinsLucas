@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MarinsLucas
 - 👀 I’m interested in learning programming and gamedeveloping
 - 🌱 I’m currently learning Computation Science in Universidade Federal de Juiz de Fora (Brazil)
-- 💞️ I’m looking to learn everything that I could be useful, but I'm in a case of love with data structure!
+- 💞️ I’m looking to learn everything that I could be useful! (Yes, me and data structure broke up)
 - 📫 How to reach me: you can send me an e-mail or send me a pix: lucasmarinsramalho@gmail.com
 
 <!---
